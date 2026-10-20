@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "BIT230216_FoodManager",
+    "slug": "bit230216-foodmanager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F4EF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.bit230216.foodmanager"
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-asset"
+    ]
+  }
+}
